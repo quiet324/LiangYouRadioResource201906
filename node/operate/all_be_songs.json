@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181102",
-		"title": "迎候主来——帖撒罗尼迦前书（8）帖前4:1-8（讲员：张得仁）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181102.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/be20181102/be/be181102.mp3",
-		"id": 36181102
-	},
-	{
 		"time": "20181103",
 		"title": "迎候主来——帖撒罗尼迦前书（9）帖前4:9-12（讲员：张得仁）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181103.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/be20190202/be/be190202.mp3",
 		"id": 36190202
+	},
+	{
+		"time": "20190203",
+		"title": "出埃及记（11）神带领以色列百姓过红海（出13:17-14:31）（讲员：张得仁）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190203.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/be20190203/be/be190203.mp3",
+		"id": 36190203
 	}
 ]
