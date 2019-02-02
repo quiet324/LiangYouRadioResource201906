@@ -966,5 +966,16 @@
 		"artistName": "善牧良言",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/yp20190127/yp/yp190127.mp3",
 		"id": 39190127
+	},
+	{
+		"time": "20190203",
+		"title": "节俭（下）",
+		"downUrl": "http://txly2.net/ly/audio/2019/yp/yp190203.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 39,
+		"artistName": "善牧良言",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/yp20190203/yp/yp190203.mp3",
+		"id": 39190203
 	}
 ]
