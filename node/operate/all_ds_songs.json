@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181102",
-		"title": "从布道到培训：罗马书大纲（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181102.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ds20181102/ds/ds181102.mp3",
-		"id": 46181102
-	},
-	{
 		"time": "20181103",
 		"title": "从布道到培训：罗马书引言和题旨（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181103.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ds20190202/ds/ds190202.mp3",
 		"id": 46190202
+	},
+	{
+		"time": "20190203",
+		"title": "良院讲台：我也可以……（巴拿巴）（徒4、9、11、13章；讲员：卢文）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190203.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ds20190203/ds/ds190203.mp3",
+		"id": 46190203
 	}
 ]
