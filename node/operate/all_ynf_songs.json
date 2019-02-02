@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181102",
-		"title": "心火故事：云南傈僳使者富能仁传记──《山雨》",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181102.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ynf20181102/ynf/ynf181102.mp3",
-		"id": 58181102
-	},
-	{
 		"time": "20181103",
 		"title": "学道篇：研经与释经",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181103.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ynf20190202/ynf/ynf190202.mp3",
 		"id": 58190202
+	},
+	{
+		"time": "20190203",
+		"title": "学道篇：研经与释经",
+		"downUrl": "http://txly2.net/ly/audio/2019/ynf/ynf190203.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ynf20190203/ynf/ynf190203.mp3",
+		"id": 58190203
 	}
 ]
