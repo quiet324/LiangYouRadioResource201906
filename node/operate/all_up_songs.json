@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181102",
-		"title": "情绪与真理（5）没有十全十美的父母，但可以成为一个不断成长的父母",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up181102.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/up20181102/up/up181102.mp3",
-		"id": 20181102
-	},
-	{
 		"time": "20181105",
 		"title": "情绪与真理（6）分清楚界限，辨识自己的情绪（讲员：傅立德牧师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up181105.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/up20190201/up/up190201.mp3",
 		"id": 20190201
+	},
+	{
+		"time": "20190204",
+		"title": "春节特辑：生命的云彩（1）安营",
+		"downUrl": "http://txly2.net/ly/audio/2019/up/up190204.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/up20190204/up/up190204.mp3",
+		"id": 20190204
 	}
 ]
