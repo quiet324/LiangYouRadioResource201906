@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181102",
-		"title": "好得无比，每一天：地震之谜（珥2:30-31）；天路历程（20）；我爱背金句：赛 6:8（热线时间）",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181102.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/dy20181102/dy/dy181102.mp3",
-		"id": 24181102
-	},
-	{
 		"time": "20181105",
 		"title": "好得无比，每一天：用手量度诸天（诗19:1）；天路历程（21）；我爱背金句：罗1:16",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181105.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/dy20190201/dy/dy190201.mp3",
 		"id": 24190201
+	},
+	{
+		"time": "20190204",
+		"title": "新春特辑：年三十，围炉守岁享平安！文惠、万峰、刘芳齐来贺岁；每日天粮：承受应许（来6:12）；你我的生命之歌（1）人算什么，你竟顾念他（诗8篇）（伍牧师讲章，罗文辉演绎）；我爱背金句：诗16:5-6",
+		"downUrl": "http://txly2.net/ly/audio/2019/dy/dy190204.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/dy20190204/dy/dy190204.mp3",
+		"id": 24190204
 	}
 ]
