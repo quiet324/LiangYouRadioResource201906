@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181102",
-		"title": "信仰大擂台：辨识异端──大凡异端者，初识都与基督徒无二，甚至表现比一般的基督徒更热情，但渐渐就会在教义上露出破绽，比如自称唯一，把正统信仰指为错误；不接受正统教义，另立自己的教义，篡改救恩等。但真理只有一个，建立在真理根基上，才不会被假的迷惑。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181102.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/im20181102/im/im181102.mp3",
-		"id": 14181102
-	},
-	{
 		"time": "20181105",
 		"title": "心磁场大平台：一位最“抠门”艺人为何迷妹无数──他是音影视三栖名星，高大、帅气、才华横溢，有颜值、有实力、有雄厚家底，2014年被媒体爆出是年收入最高的艺人，然而生活中的他却出了名的“抠”，一件衣服穿十几年，一双鞋子穿十年，演出时能借到衣服绝不自己买……如此抠门的他都把钱花哪了？",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181105.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/im20190201/im/im190201.mp3",
 		"id": 14190201
+	},
+	{
+		"time": "20190204",
+		"title": "心磁场大平台：欢闹的时刻，有人在疼痛、消失……──当人们在通宵达旦跨年狂欢时，这些被癌症禁锢在病房里的孩子们只能用着自己的方式，放烟花、迎新年……在祝福不嫌多的欢闹节日里，谈疼痛、死亡显得不合时宜，然而痛苦死亡正在这时，才愈加突显出狰狞冷酷，未知死，焉知活？想明白这个问题，才不会再害怕。",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190204.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/im20190204/im/im190204.mp3",
+		"id": 14190204
 	}
 ]
