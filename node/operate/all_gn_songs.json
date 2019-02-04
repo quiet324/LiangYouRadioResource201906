@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181105",
-		"title": "在神手中的风筝──刘帆的故事",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181105.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/gn20181105/gn/gn181105.mp3",
-		"id": 22181105
-	},
-	{
 		"time": "20181106",
 		"title": "行在爱中（上）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181106.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/gn20190204/gn/gn190204.mp3",
 		"id": 22190204
+	},
+	{
+		"time": "20190205",
+		"title": "神要开道路──惠忠的故事",
+		"downUrl": "http://txly2.net/ly/audio/2019/gn/gn190205.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/gn20190205/gn/gn190205.mp3",
+		"id": 22190205
 	}
 ]
