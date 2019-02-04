@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181105",
-		"title": "情感交流站：父亲",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181105.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ut20181105/ut/ut181105.mp3",
-		"id": 18181105
-	},
-	{
 		"time": "20181106",
 		"title": "为神建立家室：仔细读经",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181106.mp3",
@@ -710,5 +699,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ut20190204/ut/ut190204.mp3",
 		"id": 18190204
+	},
+	{
+		"time": "20190205",
+		"title": "为神建立家室：别迦摩教会",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190205.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ut20190205/ut/ut190205.mp3",
+		"id": 18190205
 	}
 ]
