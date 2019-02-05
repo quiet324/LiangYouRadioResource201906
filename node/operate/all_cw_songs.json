@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181106",
-		"title": "弹指之间：大地歌手──紫布尔正若姊妹专访；Someone is praying for you、《想你》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181106.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/cw20181106/cw/cw181106.mp3",
-		"id": 51181106
-	},
-	{
 		"time": "20181107",
 		"title": "心歌心曲：天籁之声──紫布尔正若姊妹专访；《安静》、《唱大地之歌》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181107.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/cw20190205/cw/cw190205.mp3",
 		"id": 51190205
+	},
+	{
+		"time": "20190206",
+		"title": "黄丹皓陪你过春节（2）《天上的父》、《腓力牛排4oz6分熟》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190206.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/cw20190206/cw/cw190206.mp3",
+		"id": 51190206
 	}
 ]
