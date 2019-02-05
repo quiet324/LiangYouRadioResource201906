@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181106",
-		"title": "好得无比，每一天：上帝离我多远？（赛66:13）；天路历程（22）；我爱背金句：罗1:16",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181106.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/dy20181106/dy/dy181106.mp3",
-		"id": 24181106
-	},
-	{
 		"time": "20181107",
 		"title": "好得无比，每一天：雅各的神（林后5:17-18）；天路历程（23）；我爱背金句：罗1:16",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181107.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/dy20190205/dy/dy190205.mp3",
 		"id": 24190205
+	},
+	{
+		"time": "20190206",
+		"title": "新春特辑：年初二，全家幸福又安康！文惠、万峰、林可徽恭贺新禧；每日天粮：求必得着（太7:7）；你我的生命之歌（3）虚假与代替（诗16篇）（伍牧师讲章，罗文辉演绎）；我爱背金句：诗16:5-6",
+		"downUrl": "http://txly2.net/ly/audio/2019/dy/dy190206.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/dy20190206/dy/dy190206.mp3",
+		"id": 24190206
 	}
 ]
