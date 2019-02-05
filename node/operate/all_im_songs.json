@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181106",
-		"title": "曼曼成长记：恢复亲密关系的四个步骤──家长都期望孩子能自觉乐意地收拾家务，每天都能自觉主动完成自己的作业，每天按时起床、吃饭不用催……但帮助孩子达成这些目标的过程，家长们总忍不住要求、命令、催促……导致与孩子之间的冲突矛盾，要想孩子达成目标，则需解决矛盾，方法就是恢复关系的四个步骤。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181106.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/im20181106/im/im181106.mp3",
-		"id": 14181106
-	},
-	{
 		"time": "20181107",
 		"title": "太太空间：我的二胎之路──还没预备好她就有了第一个孩子；解决了生孩子问题，又面临房子和工作问题；等工作、房子有了着落，现实不允许的二胎又悄然来临；好不容易盼到两地分居的丈夫可以回到身边，却因丈夫生病，还是只能孤身一人面对生活难关……如何是好？",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181107.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/im20190205/im/im190205.mp3",
 		"id": 14190205
+	},
+	{
+		"time": "20190206",
+		"title": "太太空间：女儿教我学做人──家不是讲理的地方，而是讲爱的地方。可怎么讲爱？当对方已触犯了我的原则、界线，我如何还能跟对方讲爱而不是讲道理？一位会学习的妈妈，从小小的女儿身上，学会展开笑脸、饶恕人，学会满足、欣赏、无条件爱人等。回转像小孩子，爱其实很简单。",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190206.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/im20190206/im/im190206.mp3",
+		"id": 14190206
 	}
 ]
