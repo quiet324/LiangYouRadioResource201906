@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181107",
-		"title": "心歌心曲：天籁之声──紫布尔正若姊妹专访；《安静》、《唱大地之歌》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181107.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/cw20181107/cw/cw181107.mp3",
-		"id": 51181107
-	},
-	{
 		"time": "20181108",
 		"title": "来吧赞美：《抬起我的头》、《当转眼仰望耶稣》、《不变的应许》、《他能改变》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181108.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/cw20190206/cw/cw190206.mp3",
 		"id": 51190206
+	},
+	{
+		"time": "20190207",
+		"title": "新春敬拜：《新的异象，新的方向》、《 数算自己的日子》、《快乐歌》、《属天的喜乐》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/cw20190207/cw/cw190207.mp3",
+		"id": 51190207
 	}
 ]
