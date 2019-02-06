@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181106",
-		"title": "教牧新视野：事工的核心价值（主持：姚谦、林诚）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181106.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ds20181106/ds/ds181106.mp3",
-		"id": 46181106
-	},
-	{
 		"time": "20181107",
 		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181107.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ds20190206/ds/ds190206.mp3",
 		"id": 46190206
+	},
+	{
+		"time": "20190207",
+		"title": "春节特辑：旷野中的祝福（4）守节庆的祝福（申16:16；讲员：袁择善）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ds20190207/ds/ds190207.mp3",
+		"id": 46190207
 	}
 ]
