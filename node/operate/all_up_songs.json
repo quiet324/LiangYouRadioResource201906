@@ -1,15 +1,5 @@
 [
 	{
-		"time": "20181107",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up181107.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/up20181107/up/up181107.mp3",
-		"id": 20181107
-	},
-	{
 		"time": "20181108",
 		"title": "情绪与真理（9）辨识思想毒虫“完美虫”（讲员：傅立德牧师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up181108.mp3",
@@ -723,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/up20190206/up/up190206.mp3",
 		"id": 20190206
+	},
+	{
+		"time": "20190207",
+		"title": "春节特辑：生命的云彩（4）跟随",
+		"downUrl": "http://txly2.net/ly/audio/2019/up/up190207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/up20190207/up/up190207.mp3",
+		"id": 20190207
 	}
 ]
