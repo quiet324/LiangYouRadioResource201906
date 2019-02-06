@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181106",
-		"title": "生活帮帮忙：爱我的家",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181106.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/pc20181106/pc/pc181106.mp3",
-		"id": 17181106
-	},
-	{
 		"time": "20181107",
 		"title": "音乐咕咕钟：我把忧虑交给祢",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181107.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/pc20190206/pc/pc190206.mp3",
 		"id": 17190206
+	},
+	{
+		"time": "20190207",
+		"title": "巨人的秘密：美国博学家班杰明富兰克林（2）",
+		"downUrl": "http://txly2.net/ly/audio/2019/pc/pc190207.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/pc20190207/pc/pc190207.mp3",
+		"id": 17190207
 	}
 ]
