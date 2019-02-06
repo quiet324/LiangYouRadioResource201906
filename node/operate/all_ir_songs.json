@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181106",
-		"title": "节目推介：《齐来颂扬》紫布尔正若歌手专访；我们是好夥伴：山东王弟兄",
-		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181106.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 12,
-		"artistName": "i-Radio爱广播",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ir20181106/ir/ir181106.mp3",
-		"id": 12181106
-	},
-	{
 		"time": "20181107",
 		"title": "节目推介：《爆米花》、《星动一刻》；赵群心语：家庭突发事件（上）大儿子死里逃生的经过；回应留言：电话尾号7102的听众",
 		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181107.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "i-Radio爱广播",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ir20190206/ir/ir190206.mp3",
 		"id": 12190206
+	},
+	{
+		"time": "20190207",
+		"title": "节目推介：《无限飞行号》无限飞进门、《这个生命棒棒哒》我不适合娱乐圈；我们的推荐人：辽宁范姊妹、小吴（主持：于欣甜）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ir/ir190207.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 12,
+		"artistName": "i-Radio爱广播",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ir20190207/ir/ir190207.mp3",
+		"id": 12190207
 	}
 ]
