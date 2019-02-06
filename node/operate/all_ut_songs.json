@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181107",
-		"title": "为神建立家室：心中有王",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181107.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201845/ut20181107/ut/ut181107.mp3",
-		"id": 18181107
-	},
-	{
 		"time": "20181108",
 		"title": "为神建立家室：真实的盼望",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181108.mp3",
@@ -710,5 +699,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ut20190206/ut/ut190206.mp3",
 		"id": 18190206
+	},
+	{
+		"time": "20190207",
+		"title": "为神建立家室：自称先知的耶洗别",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190207.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ut20190207/ut/ut190207.mp3",
+		"id": 18190207
 	}
 ]
