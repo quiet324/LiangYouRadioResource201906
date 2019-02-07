@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181108",
-		"title": "文学会客室：鲁迅与《阿Q正传》",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181108.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/gn20181108/gn/gn181108.mp3",
-		"id": 22181108
-	},
-	{
 		"time": "20181109",
 		"title": "生命之歌",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181109.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/gn20190207/gn/gn190207.mp3",
 		"id": 22190207
+	},
+	{
+		"time": "20190208",
+		"title": "生命之歌",
+		"downUrl": "http://txly2.net/ly/audio/2019/gn/gn190208.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/gn20190208/gn/gn190208.mp3",
+		"id": 22190208
 	}
 ]
