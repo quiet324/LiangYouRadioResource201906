@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181108",
-		"title": "来吧赞美：《抬起我的头》、《当转眼仰望耶稣》、《不变的应许》、《他能改变》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181108.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cw20181108/cw/cw181108.mp3",
-		"id": 51181108
-	},
-	{
 		"time": "20181109",
 		"title": "赞美旋律：韦瓦第小提琴协奏曲降E大调之《海上暴风雨》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181109.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/cw20190207/cw/cw190207.mp3",
 		"id": 51190207
+	},
+	{
+		"time": "20190208",
+		"title": "赞美旋律：电影埃及王子之《神的眼光》、《燃烧的荆棘》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190208.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/cw20190208/cw/cw190208.mp3",
+		"id": 51190208
 	}
 ]
