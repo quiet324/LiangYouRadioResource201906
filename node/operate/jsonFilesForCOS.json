@@ -40879,5 +40879,11 @@
 	},
 	{
 		"fileName": "../operate/all_up20190208_songs.json"
+	},
+	{
+		"fileName": "../operate/all_hg20190208_songs.json"
+	},
+	{
+		"fileName": "../operate/all_wf20190208_songs.json"
 	}
 ]
