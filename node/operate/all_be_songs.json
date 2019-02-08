@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181108",
-		"title": "信心行为——雅各书（1）导论（讲员：陈灵新）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be181108.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/be20181108/be/be181108.mp3",
-		"id": 36181108
-	},
-	{
 		"time": "20181109",
 		"title": "信心行为——雅各书（2）百般的试炼（雅1:2-4）（讲员：陈灵新）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be181109.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/be20190208/be/be190208.mp3",
 		"id": 36190208
+	},
+	{
+		"time": "20190209",
+		"title": "出埃及记（17）第二诫“不可拜偶像”（出20:4-6）（讲员：张得仁）",
+		"downUrl": "http://txly2.net/ly/audio/2019/be/be190209.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/be20190209/be/be190209.mp3",
+		"id": 36190209
 	}
 ]
