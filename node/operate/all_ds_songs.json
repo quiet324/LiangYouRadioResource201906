@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181108",
-		"title": "宣教心之路：宣教士关顾的重要（主持：姚谦、林诚）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181108.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/ds20181108/ds/ds181108.mp3",
-		"id": 46181108
-	},
-	{
 		"time": "20181109",
 		"title": "从布道到培训：感恩与祷告（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181109.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ds20190208/ds/ds190208.mp3",
 		"id": 46190208
+	},
+	{
+		"time": "20190209",
+		"title": "春节特辑：旷野中的祝福（6）旷野中的教训（下）（来11:24-29；讲员：卢文）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190209.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201906/ds20190209/ds/ds190209.mp3",
+		"id": 46190209
 	}
 ]
